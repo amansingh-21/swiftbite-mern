@@ -2,10 +2,11 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin:20px 0px;
 }
 
 .navbar .logo{
-  height: 100px;
+  height: 40px;
 }
 
 .navbar-menu{
